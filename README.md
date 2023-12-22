@@ -2,4 +2,4 @@
 
 This is a Dark and light mode simple program in Html and css 
 
-demo = https://shanibck.github.io/Dark-and-light-mode/
+demo = https://shanib-c-k.github.io/Dark-and-light-mode/
